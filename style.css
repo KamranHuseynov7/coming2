@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: white;
+}
+content {
+    background: url('william-william-NndKt2kF1L4-unsplash.jpg') center;
+    background-size: cover;
+    height: 100vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  
+  
+}
+h1 {
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+    background: black;
+    padding: 15px 20px;
+    margin: 0;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+}  
+
+@media(max-width:768px) {
+
+    
+   
+
+}
